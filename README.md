@@ -1,4 +1,3 @@
 # hello-world
-getting started
 Hello devs,
-New one in town.
+I am the New one in town.
