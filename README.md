@@ -1,3 +1,2 @@
-# hello-world
-Hello devs,
-I am the New one in town.
+#Hello there!
+Checkout My random Projects Over Here!
